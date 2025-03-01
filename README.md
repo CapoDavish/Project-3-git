@@ -1,2 +1,2 @@
-# Project-3-git
-Project 3
+# TiiDou
+Site de jeux récréatifs et éducatifs en ligne
